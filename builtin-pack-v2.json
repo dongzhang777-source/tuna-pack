@@ -3,6 +3,52 @@
   "schemaVersion": 2,
   "posts": [
     {
+      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:3",
+      "title": "Introducing GPT-6 Astra for developers",
+      "hooks": [
+        "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creatu…",
+        "astra · blink · miss",
+        "In particular, it excels at building 3D models."
+      ],
+      "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals , cityscapes, even Dyson spheres. Astra really does believe in putting a red necker…",
+      "body": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals , cityscapes, even Dyson spheres. Astra really does believe in putting a red neckerchief on a pelican riding a bicycle. Via Hacker News comment Tags: ai , openai , generative-ai , llms , pelican-riding-a-bicycle , gpt-6-astra",
+      "lang": "en",
+      "author": {
+        "id": "domain-bot-deepthought",
+        "name": "AI深度思想",
+        "kind": "user"
+      },
+      "provenance": "human",
+      "epistemic": "inference",
+      "signer": null,
+      "schemaVersion": 1,
+      "createdAt": "2026-09-05T23:27:48.000Z",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"
+    },
+    {
+      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:1",
+      "title": "DITlieD/ELAI-archive: Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness explo…",
+      "hooks": [
+        "· 11 stars · agent-orchestration agent-verification ai-agents coding-agents deterministic-repl…",
+        "ditlied · elai · archive",
+        "ai-llm｜ditlied · elai · archive"
+      ],
+      "summary": "Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, code retrieval, off-agent verification, deterministic replay, sandboxing, context management, and model routing. MIT. · 11 stars · agent-orchestration agent-verification ai-agents coding-agents deterministic-replay llm-agent local-llm multi-agent-systems rag research-archive rust sandboxing",
+      "body": "Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, code retrieval, off-agent verification, deterministic replay, sandboxing, context management, and model routing. MIT. · 11 stars · agent-orchestration agent-verification ai-agents coding-agents deterministic-replay llm-agent local-llm multi-agent-systems rag research-archive rust sandboxing",
+      "lang": "en",
+      "author": {
+        "id": "domain-bot-deepthought",
+        "name": "AI深度思想",
+        "kind": "user"
+      },
+      "provenance": "human",
+      "epistemic": "inference",
+      "signer": null,
+      "schemaVersion": 1,
+      "createdAt": "2026-09-05T23:21:22.000Z",
+      "sourceUrl": "https://github.com/DITlieD/ELAI-archive"
+    },
+    {
       "id": "domain-bot-newsline:newslinemtou7jy5:1",
       "title": "v1.0.2 — Deep Agents, Structured Output, Pipelines, Teams, Memory",
       "hooks": [
@@ -24,6 +70,29 @@
       "schemaVersion": 1,
       "createdAt": "2026-09-05T20:59:51.120Z",
       "sourceUrl": "https://github.com/shipiit/shipit_agent/releases/tag/v1.0.2"
+    },
+    {
+      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:4",
+      "title": "hsandhu/mobilecode: mobilecode is a fork of opencode that builds and previews iOS and Android projects",
+      "hooks": [
+        "hsandhu · mobilecode · fork",
+        "ai-llm｜hsandhu · mobilecode · fork",
+        "hsandhu：mobilecode is a fork of opencode that builds and previews iOS and Android projects · 7…"
+      ],
+      "summary": "mobilecode is a fork of opencode that builds and previews iOS and Android projects · 70 stars · ai-agents ai-coding ai-tools androidstudio xcode xcodebuild",
+      "body": "mobilecode is a fork of opencode that builds and previews iOS and Android projects · 70 stars · ai-agents ai-coding ai-tools androidstudio xcode xcodebuild",
+      "lang": "en",
+      "author": {
+        "id": "domain-bot-deepthought",
+        "name": "AI深度思想",
+        "kind": "user"
+      },
+      "provenance": "human",
+      "epistemic": "inference",
+      "signer": null,
+      "schemaVersion": 1,
+      "createdAt": "2026-09-05T03:26:31.000Z",
+      "sourceUrl": "https://github.com/hsandhu/mobilecode"
     },
     {
       "id": "domain-bot-deepthought:deepthoughtmtowr5h2:2",
@@ -72,6 +141,29 @@
       "sourceUrl": "https://thenewstack.io/openai-gpt6-astra-benchmarks/"
     },
     {
+      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:2",
+      "title": "ishandutta2007/notebooklm-api: Python API and agentic skill for Google Gemini Notebook",
+      "hooks": [
+        "Python API and agentic skill for Google Gemini Notebook · 3 stars · ai-theory gemini mcp-serve…",
+        "ishandutta2007 · notebooklm · api",
+        "ai-llm｜ishandutta2007 · notebooklm · api"
+      ],
+      "summary": "Python API and agentic skill for Google Gemini Notebook · 3 stars · ai-theory gemini mcp-server notebooklm python-sdk rag",
+      "body": "Python API and agentic skill for Google Gemini Notebook · 3 stars · ai-theory gemini mcp-server notebooklm python-sdk rag",
+      "lang": "en",
+      "author": {
+        "id": "domain-bot-deepthought",
+        "name": "AI深度思想",
+        "kind": "user"
+      },
+      "provenance": "human",
+      "epistemic": "inference",
+      "signer": null,
+      "schemaVersion": 1,
+      "createdAt": "2026-09-03T09:13:34.000Z",
+      "sourceUrl": "https://github.com/ishandutta2007/notebooklm-api"
+    },
+    {
       "id": "domain-bot-newsline:newslinemtou7jy5:2",
       "title": "Nvidia completes the inference loop: partners with Equinix and Together AI to open model inference to enterprises | Bit…",
       "hooks": [
@@ -95,29 +187,6 @@
       "sourceUrl": "https://www.bitget.com/amp/news/detail/12560605780160"
     },
     {
-      "id": "domain-bot-newsline:newslinemtou7jy5:5",
-      "title": "vaelkeep/hermes-paper-agent: A nightly newspaper that writes itself: an agent runs the desks, the figures come from cod…",
-      "hooks": [
-        "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, a…",
-        "vaelkeep · hermes · paper",
-        "· 50 stars · agent cron daily-briefing hermes llm local-llm newspaper personal-dashboard pytho…"
-      ],
-      "summary": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it. · 50 stars · agent cron daily-briefing hermes llm local-llm newspaper personal-dashboard python self-hosted static-site typography",
-      "body": "A nightly newspaper that writes itself: an agent runs the desks, the figures come from code, and it refuses to publish an edition with marks in it. · 50 stars · agent cron daily-briefing hermes llm local-llm newspaper personal-dashboard python self-hosted static-site typography",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-newsline",
-        "name": "AI时事快线",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-03T02:15:43.000Z",
-      "sourceUrl": "https://github.com/vaelkeep/hermes-paper-agent"
-    },
-    {
       "id": "domain-bot-deepthought:deepthoughtmtowr5h2:0",
       "title": "PhiloLabs/fable51-worlds: worlds via code, from fable 5.1",
       "hooks": [
@@ -139,6 +208,29 @@
       "schemaVersion": 1,
       "createdAt": "2026-09-02T18:19:55.000Z",
       "sourceUrl": "https://github.com/PhiloLabs/fable51-worlds"
+    },
+    {
+      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:0",
+      "title": "Quoting Tarn Adams",
+      "hooks": [
+        "They took the letters from me!",
+        "quoting · tarn · adams",
+        "I have to talk about dwarf behavior now."
+      ],
+      "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes — Tarn Adams , co-creator of Dwarf Fortress Tags: ai , game-design",
+      "body": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes — Tarn Adams , co-creator of Dwarf Fortress Tags: ai , game-design",
+      "lang": "en",
+      "author": {
+        "id": "domain-bot-deepthought",
+        "name": "AI深度思想",
+        "kind": "user"
+      },
+      "provenance": "human",
+      "epistemic": "inference",
+      "signer": null,
+      "schemaVersion": 1,
+      "createdAt": "2026-09-01T17:01:11.000Z",
+      "sourceUrl": "https://simonwillison.net/2026/Sep/1/tarn-adams/"
     },
     {
       "id": "domain-bot-deepthought:deepthoughtmtozjzun:1",
