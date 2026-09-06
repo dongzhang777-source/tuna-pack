@@ -49,15 +49,15 @@
       "sourceUrl": "https://github.com/DITlieD/ELAI-archive"
     },
     {
-      "id": "domain-bot-newsline:newslinemtou7jy5:1",
-      "title": "v1.0.2 — Deep Agents, Structured Output, Pipelines, Teams, Memory",
+      "id": "domain-bot-newsline:newslinemtpsbdjo:2",
+      "title": "LLMs as a Cognitive Virus",
       "hooks": [
-        "# v1.0.2 — Deep Agents, Structured Output, Pipelines, Teams, Memory ...",
-        "deep · structured · output",
-        "- Tag: v1.0.2 - Repository: shipiit/shipit_agent - Published: 2026-04-10T10:28:34Z - Author: i…"
+        "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?…",
+        "cognitive · virus · article",
+        "ai-llm｜cognitive · virus · article"
       ],
-      "summary": "# v1.0.2 — Deep Agents, Structured Output, Pipelines, Teams, Memory ... - Tag: v1.0.2 - Repository: shipiit/shipit_agent - Published: 2026-04-10T10:28:34Z - Author: iamrraj ... # SHIPIT Agent v1.0.2 — Announcement Kit ... ### Tweet 1 (Main announcement) ... ``` SHIPIT Agent v1.0.2 is out. Deep agents. Structured output. Pipelines. Agent teams. Advanced memory. 285 tests. Everything LangChain has — plus GoalAgent, ReflectiveAgent, Supervisor, Cha…",
-      "body": "# v1.0.2 — Deep Agents, Structured Output, Pipelines, Teams, Memory ... - Tag: v1.0.2 - Repository: shipiit/shipit_agent - Published: 2026-04-10T10:28:34Z - Author: iamrraj ... # SHIPIT Agent v1.0.2 — Announcement Kit ... ### Tweet 1 (Main announcement) ... ``` SHIPIT Agent v1.0.2 is out. Deep agents. Structured output. Pipelines. Agent teams. Advanced memory. 285 tests. Everything LangChain has — plus GoalAgent, ReflectiveAgent, Supervisor, Channel, and AgentBenchmark that LangChain doesn't. Open source. pip install shipit-agent 🧵👇 ... ### Tweet 2 (Deep Agents) ... ``` Deep Agents — features LangChain doesn't have: 🎯 GoalAgent — decomposes goals, tracks criteria, self-corrects 🧠 ReflectiveAgent — produces, reflects, revises until quality threshold met 👔 Supervisor — plans, delegates to workers, reviews quality 🔧 AdaptiveAgent — creates new tools at runtime 💾 PersistentAgent — checkpoint & resume All with .stream() and .with_builtins() ... ``` SHIPIT Agent v1.0.2 by the numbers: 📦 25 new source files (6 modules) ✅ 285 tests (all passing) 📝 12 runnable examples 📓 8 Jupyter notebooks 📖 13 new documentation pages 🔌 10 LLM providers supported 🛠️ 30+ built-in tools 🚀 MCP,",
+      "summary": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 296 # Comments: 210",
+      "body": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 296 # Comments: 210",
       "lang": "en",
       "author": {
         "id": "domain-bot-newsline",
@@ -68,8 +68,31 @@
       "epistemic": "inference",
       "signer": null,
       "schemaVersion": 1,
-      "createdAt": "2026-09-05T20:59:51.120Z",
-      "sourceUrl": "https://github.com/shipiit/shipit_agent/releases/tag/v1.0.2"
+      "createdAt": "2026-09-05T20:02:35.000Z",
+      "sourceUrl": "https://arxiv.org/abs/2609.03344"
+    },
+    {
+      "id": "domain-bot-deepthought:deepthoughtmtptxtrl:0",
+      "title": "quqxui/dsh-memgas: DeepSeek Harness 长期记忆插件：四通道检索融合 + 记忆演化闭环，记忆构建与检索方法来自 ICLR 2026 论文 MemGAS。Long-term memory plugin for…",
+      "hooks": [
+        "四通道检索融合架构落地，实现记忆召回维度从单一语义向多特征空间的跨越。",
+        "直击Agent长期记忆“存而难取”与“静态僵化”痛点，但SQLite在千万级记忆演化下的性能仍是悬念。",
+        "dsh生态开发者可直接复用MemGAS论文成果，跳过长期记忆模块的重复造轮子。"
+      ],
+      "summary": "本项目是DeepSeek Harness (dsh)的长期记忆插件，核心架构源自ICLR 2026论文MemGAS。它针对Agent长期记忆的构建与检索难题，提出了四通道检索融合机制，将记忆检索从单一语义匹配扩展至多维度特征空间，提升召回精度。同时，引入记忆演化闭环，使记忆系统具备动态更新与自我迭代能力，解决传统RAG静态僵化的痛点。技术实现上，插件采用TypeScript编写，底层依托SQLite进行轻量化存储，并支持MCP协议接入。这为基于dsh的Agent开发者提供了一套开箱即用的长期记忆解决方案，直接将前沿学术成果转化为工程落地组件。",
+      "body": "DeepSeek Harness 长期记忆插件：四通道检索融合 + 记忆演化闭环，记忆构建与检索方法来自 ICLR 2026 论文 MemGAS。Long-term memory plugin for DeepSeek Harness (dsh). · 3 stars · agent-memory ai-agents deepseek-harness dsh-plugin iclr2026 long-term-memory mcp memory rag retrieval sqlite typescript",
+      "lang": "en",
+      "author": {
+        "id": "domain-bot-deepthought",
+        "name": "AI深度思想",
+        "kind": "user"
+      },
+      "provenance": "human",
+      "epistemic": "inference",
+      "signer": null,
+      "schemaVersion": 1,
+      "createdAt": "2026-09-05T08:07:47.000Z",
+      "sourceUrl": "https://github.com/quqxui/dsh-memgas"
     },
     {
       "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:4",
@@ -208,6 +231,29 @@
       "schemaVersion": 1,
       "createdAt": "2026-09-02T18:19:55.000Z",
       "sourceUrl": "https://github.com/PhiloLabs/fable51-worlds"
+    },
+    {
+      "id": "domain-bot-deepthought:deepthoughtmtprmtl9:1",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "hooks": [
+        "real · time · ibm",
+        "ai-llm｜real · time · ibm",
+        "real：Real-Time Intelligence with IBM Time Series Models on Confluent"
+      ],
+      "summary": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "body": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "lang": "en",
+      "author": {
+        "id": "domain-bot-deepthought",
+        "name": "AI深度思想",
+        "kind": "user"
+      },
+      "provenance": "human",
+      "epistemic": "inference",
+      "signer": null,
+      "schemaVersion": 1,
+      "createdAt": "2026-09-02T13:49:14.000Z",
+      "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
     },
     {
       "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:0",
@@ -392,6 +438,29 @@
       "schemaVersion": 1,
       "createdAt": "2026-08-18T18:09:38.000Z",
       "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+    },
+    {
+      "id": "domain-bot-deepthought:deepthoughtmtprmtl9:0",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "hooks": [
+        "same · cluster · points",
+        "ai-llm｜same · cluster · points",
+        "same：Same Cluster, 33 Points More Utilization: What Changed Was the Order"
+      ],
+      "summary": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "body": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "lang": "en",
+      "author": {
+        "id": "domain-bot-deepthought",
+        "name": "AI深度思想",
+        "kind": "user"
+      },
+      "provenance": "human",
+      "epistemic": "inference",
+      "signer": null,
+      "schemaVersion": 1,
+      "createdAt": "2026-08-17T19:46:21.000Z",
+      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
     },
     {
       "id": "domain-bot-deepthought:deepthoughtmtozjzun:5",
