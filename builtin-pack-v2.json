@@ -3,75 +3,6 @@
   "schemaVersion": 2,
   "posts": [
     {
-      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:3",
-      "title": "Introducing GPT-6 Astra for developers",
-      "hooks": [
-        "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creatu…",
-        "astra · blink · miss",
-        "In particular, it excels at building 3D models."
-      ],
-      "summary": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals , cityscapes, even Dyson spheres. Astra really does believe in putting a red necker…",
-      "body": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated outputs. In particular, it excels at building 3D models. I've seen it make incredible renderings of gardens, shipyards, animals , cityscapes, even Dyson spheres. Astra really does believe in putting a red neckerchief on a pelican riding a bicycle. Via Hacker News comment Tags: ai , openai , generative-ai , llms , pelican-riding-a-bicycle , gpt-6-astra",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-05T23:27:48.000Z",
-      "sourceUrl": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:1",
-      "title": "DITlieD/ELAI-archive: Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness explo…",
-      "hooks": [
-        "· 11 stars · agent-orchestration agent-verification ai-agents coding-agents deterministic-repl…",
-        "ditlied · elai · archive",
-        "ai-llm｜ditlied · elai · archive"
-      ],
-      "summary": "Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, code retrieval, off-agent verification, deterministic replay, sandboxing, context management, and model routing. MIT. · 11 stars · agent-orchestration agent-verification ai-agents coding-agents deterministic-replay llm-agent local-llm multi-agent-systems rag research-archive rust sandboxing",
-      "body": "Abandoned, unsupported research archive for a local-first, model-agnostic LLM agent harness exploring orchestration, code retrieval, off-agent verification, deterministic replay, sandboxing, context management, and model routing. MIT. · 11 stars · agent-orchestration agent-verification ai-agents coding-agents deterministic-replay llm-agent local-llm multi-agent-systems rag research-archive rust sandboxing",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-05T23:21:22.000Z",
-      "sourceUrl": "https://github.com/DITlieD/ELAI-archive"
-    },
-    {
-      "id": "domain-bot-newsline:newslinemtpsbdjo:2",
-      "title": "LLMs as a Cognitive Virus",
-      "hooks": [
-        "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?…",
-        "cognitive · virus · article",
-        "ai-llm｜cognitive · virus · article"
-      ],
-      "summary": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 296 # Comments: 210",
-      "body": "Article URL: https://arxiv.org/abs/2609.03344 Comments URL: https://news.ycombinator.com/item?id=49580164 Points: 296 # Comments: 210",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-newsline",
-        "name": "AI时事快线",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-05T20:02:35.000Z",
-      "sourceUrl": "https://arxiv.org/abs/2609.03344"
-    },
-    {
       "id": "domain-bot-deepthought:deepthoughtmtptxtrl:0",
       "title": "quqxui/dsh-memgas: DeepSeek Harness 长期记忆插件：四通道检索融合 + 记忆演化闭环，记忆构建与检索方法来自 ICLR 2026 论文 MemGAS。Long-term memory plugin for…",
       "hooks": [
@@ -93,29 +24,6 @@
       "schemaVersion": 1,
       "createdAt": "2026-09-05T08:07:47.000Z",
       "sourceUrl": "https://github.com/quqxui/dsh-memgas"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:4",
-      "title": "hsandhu/mobilecode: mobilecode is a fork of opencode that builds and previews iOS and Android projects",
-      "hooks": [
-        "hsandhu · mobilecode · fork",
-        "ai-llm｜hsandhu · mobilecode · fork",
-        "hsandhu：mobilecode is a fork of opencode that builds and previews iOS and Android projects · 7…"
-      ],
-      "summary": "mobilecode is a fork of opencode that builds and previews iOS and Android projects · 70 stars · ai-agents ai-coding ai-tools androidstudio xcode xcodebuild",
-      "body": "mobilecode is a fork of opencode that builds and previews iOS and Android projects · 70 stars · ai-agents ai-coding ai-tools androidstudio xcode xcodebuild",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-05T03:26:31.000Z",
-      "sourceUrl": "https://github.com/hsandhu/mobilecode"
     },
     {
       "id": "domain-bot-deepthought:deepthoughtmtowr5h2:2",
@@ -141,15 +49,15 @@
       "sourceUrl": "https://simonwillison.net/2026/Sep/4/august-newsletter/"
     },
     {
-      "id": "domain-bot-newsline:newslinemtou7jy5:0",
-      "title": "OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" - The New Stack",
+      "id": "domain-bot-newsline:newslinemtou7jy5:8",
+      "title": "OpenAI Says GPT-6 Astra Is 'The Most Intelligent And Aligned Model In The World'",
       "hooks": [
-        "OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" - The New Stack ...",
-        "astra · welcome · agi",
-        "OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" ..."
+        "GPT-6 Astra claims top intelligence and alignment, with a leap in agentic and computer-use com…",
+        "Astra's rapid release: does its alignment solve agentic control, or just compromise safety val…",
+        "Should Astra's agentic leap drive immediate architectural shifts, or do rapid release risks de…"
       ],
-      "summary": "OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" - The New Stack ... OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" ... \"Hugging Face will remain an open platform\": Nvidia strikes $12.9B deal for the 'GitHub of AI' ... GPT-6 Astra aced the hardest AI benchmark. The asterisk matters more than the score. ... Anthropic's Claude failures have made agent observability a security priority ... Edge-forward: Akamai eyes sweet…",
-      "body": "OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" - The New Stack ... OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" ... \"Hugging Face will remain an open platform\": Nvidia strikes $12.9B deal for the 'GitHub of AI' ... GPT-6 Astra aced the hardest AI benchmark. The asterisk matters more than the score. ... Anthropic's Claude failures have made agent observability a security priority ... Edge-forward: Akamai eyes sweet spot between centralized & decentralized AI inference ... OpenAI launches GPT-6 Astra and says welcome to the \"AGI era\" ... # OpenAI launches GPT-6 Astra and says welcome to the “AGI era” ... OpenAI on Thursday launched GPT-6 Astra, its newest flagship model. The company describes it as “the world’s most intelligent and aligned model,” and as far as the benchmarks go, that seems about right. ... During a press briefing ahead of the launch, OpenAI President Greg Brockman took things a bit further than the benchmarks, though. After acknowledging that AGI remains a “gray, fuzzy thing,” he suggested future observers might look back at Astra as the model that marked its arrival. ... Asked whether OpenAI was formally declaring that it had achieve",
+      "summary": "OpenAI has launched GPT-6 Astra, asserting it is the most intelligent and aligned model globally. The new frontier model demonstrates exceptional proficiency in agentic and computer-use tasks. Notably, this release comes less than two months after the GPT-5.6 family, signaling an accelerated pace in frontier model deployment despite previous indications of slowing down. The emphasis on alignment alongside agentic capability suggests a targeted p…",
+      "body": "OpenAI Says GPT-6 Astra Is 'The Most Intelligent And ... igned Model In The World' ... # OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world' ... The new frontier model is particularly competent at agentic, computer-use tasks. By Ian Carlos Campbell Sept. 3, 2026 6:58 pm EST A little under two months after releasing its last major model family to the public, GPT-5.6 Sol, Terra and Luna, OpenAI is back with an entirely new one: GPT-6 Astra, what it claims is \"the most intelligent and aligned model in the world.\" Following the company's decision to slow frontier model development in August after one of its models hacked AI platform Hugging Face, it may also be the last major AI model it releases for a while. ... GPT-6 Astra excels at computer-use and browsing, and handling tasks in the domains of software engineering, cybersecurity, science and general professional work, according to OpenAI. A flashy demo video the company released alongside the launch shows Astra handling everything from 3D modeling to building slideshows, and often taking care of multiple tasks across different domains at the same time (like ordering food while coding a game). Key to A",
       "lang": "en",
       "author": {
         "id": "domain-bot-newsline",
@@ -160,54 +68,8 @@
       "epistemic": "inference",
       "signer": null,
       "schemaVersion": 1,
-      "createdAt": "2026-09-03T18:02:40.000Z",
-      "sourceUrl": "https://thenewstack.io/openai-gpt6-astra-benchmarks/"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:2",
-      "title": "ishandutta2007/notebooklm-api: Python API and agentic skill for Google Gemini Notebook",
-      "hooks": [
-        "Python API and agentic skill for Google Gemini Notebook · 3 stars · ai-theory gemini mcp-serve…",
-        "ishandutta2007 · notebooklm · api",
-        "ai-llm｜ishandutta2007 · notebooklm · api"
-      ],
-      "summary": "Python API and agentic skill for Google Gemini Notebook · 3 stars · ai-theory gemini mcp-server notebooklm python-sdk rag",
-      "body": "Python API and agentic skill for Google Gemini Notebook · 3 stars · ai-theory gemini mcp-server notebooklm python-sdk rag",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-03T09:13:34.000Z",
-      "sourceUrl": "https://github.com/ishandutta2007/notebooklm-api"
-    },
-    {
-      "id": "domain-bot-newsline:newslinemtou7jy5:2",
-      "title": "Nvidia completes the inference loop: partners with Equinix and Together AI to open model inference to enterprises | Bit…",
-      "hooks": [
-        "# Nvidia completes the inference loop: partners with Equinix and Together AI to open model inf…",
-        "completes · loop · partners",
-        ": partners with ..."
-      ],
-      "summary": "# Nvidia completes the inference loop: partners with Equinix and Together AI to open model inference to enterprises | Bitget News ... : partners with ... Nvidia completes the ... Nvidia has partnered with Equinix, the world's largest data center colocation provider, and AI inference platform Together AI, with each party handling distinct roles—Equinix provides colocation services, Together AI offers the inference platform, and Nvidia supplies GP…",
-      "body": "# Nvidia completes the inference loop: partners with Equinix and Together AI to open model inference to enterprises | Bitget News ... : partners with ... Nvidia completes the ... Nvidia has partnered with Equinix, the world's largest data center colocation provider, and AI inference platform Together AI, with each party handling distinct roles—Equinix provides colocation services, Together AI offers the inference platform, and Nvidia supplies GPUs and the software stack—to jointly deliver open model inference services for enterprise clients. This move marks Nvidia's expansion of its computing ecosystem from training to inference, completing a closed-loop offering. ... On Wednesday, NVIDIA reached a partnership with Equinix, the world's largest data center colocation provider, and AI inference platform company Together AI to jointly offer open model inference services to enterprise customers, filling the final gap from model training to inference deployment. ... According to the division of responsibilities, Equinix provides data center colocation, Together AI offers the inference platform, and NVIDIA supplies GPUs and the software stack. The three parties bundle hardware, software,",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-newsline",
-        "name": "AI时事快线",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-03T04:21:08.000Z",
-      "sourceUrl": "https://www.bitget.com/amp/news/detail/12560605780160"
+      "createdAt": "2026-09-03T22:58:12.000Z",
+      "sourceUrl": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/"
     },
     {
       "id": "domain-bot-deepthought:deepthoughtmtowr5h2:0",
@@ -233,75 +95,6 @@
       "sourceUrl": "https://github.com/PhiloLabs/fable51-worlds"
     },
     {
-      "id": "domain-bot-deepthought:deepthoughtmtprmtl9:1",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "hooks": [
-        "real · time · ibm",
-        "ai-llm｜real · time · ibm",
-        "real：Real-Time Intelligence with IBM Time Series Models on Confluent"
-      ],
-      "summary": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "body": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-02T13:49:14.000Z",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtpgp8mt:0",
-      "title": "Quoting Tarn Adams",
-      "hooks": [
-        "They took the letters from me!",
-        "quoting · tarn · adams",
-        "I have to talk about dwarf behavior now."
-      ],
-      "summary": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes — Tarn Adams , co-creator of Dwarf Fortress Tags: ai , game-design",
-      "body": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes — Tarn Adams , co-creator of Dwarf Fortress Tags: ai , game-design",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-01T17:01:11.000Z",
-      "sourceUrl": "https://simonwillison.net/2026/Sep/1/tarn-adams/"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:1",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "hooks": [
-        "huggingface · 200 · webgpu",
-        "ai-llm｜huggingface · 200 · webgpu",
-        "huggingface：Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
-      ],
-      "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "body": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-09-01T00:00:00.000Z",
-      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels"
-    },
-    {
       "id": "domain-bot-deepthought:deepthoughtmtowr5h2:1",
       "title": "AlephAITech/DoubaoWorkGuide: 豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。",
       "hooks": [
@@ -323,213 +116,6 @@
       "schemaVersion": 1,
       "createdAt": "2026-08-31T01:57:57.000Z",
       "sourceUrl": "https://github.com/AlephAITech/DoubaoWorkGuide"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:2",
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "hooks": [
-        "asr · leaderboard · adds",
-        "ai-llm｜asr · leaderboard · adds",
-        "asr：The Open ASR Leaderboard Adds Its First Global South Language"
-      ],
-      "summary": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "body": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-28T00:00:00.000Z",
-      "sourceUrl": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:8",
-      "title": "Quoting Paul Dix",
-      "hooks": [
-        "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months…",
-        "quoting · paul · dix",
-        "And you can say, “well it’s not that impressive because they had an oracle to compare against,…"
-      ],
-      "summary": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verifi…",
-      "body": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can say, “well it’s not that impressive because they had an oracle to compare against, so it was simple to go from one language to another”, but I think that’s selling this entire thing short. If you can build a verification system and give proper direction, AI can produce a highly complex, highly sophisticated piece of software and it can continue to refine it until it just works. — Paul Dix , The end of programming Tags: coding-agents , ai-assisted-programming , generative-ai , bun , ai , llms",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-26T08:07:55.000Z",
-      "sourceUrl": "https://simonwillison.net/2026/Aug/26/paul-dix/"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:3",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "hooks": [
-        "wire · run · workflows",
-        "ai-llm｜wire · run · workflows",
-        "wire：Wire It, Run It, Deploy It: AI Workflows in Gradio"
-      ],
-      "summary": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "body": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-25T00:00:00.000Z",
-      "sourceUrl": "https://huggingface.co/blog/gradio-workflow-guide"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:0",
-      "title": "Quoting Drew Breunig",
-      "hooks": [
-        "Prior to Fable, it felt silly to waste too much time improving your coding harness or context …",
-        "quoting · drew · breunig",
-        "A new model would arrive at the same price (or cheaper!) and paper over most of your problems."
-      ],
-      "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible . But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed. So we started to think about what work went where. — Drew Breunig , Fa…",
-      "body": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over most of your problems. But then Fable landed. It was (and still is!) incredible . But the cost was so high and Opus was good enough (as was 5.6, K3, and even GLM) for most of the code we needed. So we started to think about what work went where. — Drew Breunig , Fable & The End of the Free Lunch Tags: drew-breunig , anthropic , claude , llm-pricing , ai , llms , generative-ai , claude-mythos-fable",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-23T19:55:30.000Z",
-      "sourceUrl": "https://simonwillison.net/2026/Aug/23/drew-breunig/"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:4",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "hooks": [
-        "much · actually",
-        "ai-llm｜much · actually",
-        "much：How Much Memory Does Your Agent Actually Need?"
-      ],
-      "summary": "How Much Memory Does Your Agent Actually Need?",
-      "body": "How Much Memory Does Your Agent Actually Need?",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-18T18:09:38.000Z",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtprmtl9:0",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "hooks": [
-        "same · cluster · points",
-        "ai-llm｜same · cluster · points",
-        "same：Same Cluster, 33 Points More Utilization: What Changed Was the Order"
-      ],
-      "summary": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "body": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-17T19:46:21.000Z",
-      "sourceUrl": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:5",
-      "title": "State of Open Models: Summer 2026 Observations",
-      "hooks": [
-        "state · summer · 2026",
-        "ai-llm｜state · summer · 2026",
-        "state：State of Open Models: Summer 2026 Observations"
-      ],
-      "summary": "State of Open Models: Summer 2026 Observations",
-      "body": "State of Open Models: Summer 2026 Observations",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-14T00:00:00.000Z",
-      "sourceUrl": "https://huggingface.co/blog/state-of-open-models-summer-2026"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:6",
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "hooks": [
-        "learned · reproducing · 200",
-        "ai-llm｜learned · reproducing · 200",
-        "learned：What We Learned by Reproducing 2,200 papers from ICML"
-      ],
-      "summary": "What We Learned by Reproducing 2,200 papers from ICML",
-      "body": "What We Learned by Reproducing 2,200 papers from ICML",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-13T00:00:00.000Z",
-      "sourceUrl": "https://huggingface.co/blog/icml-2026-open-reproductions"
-    },
-    {
-      "id": "domain-bot-deepthought:deepthoughtmtozjzun:7",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "hooks": [
-        "thinking · ace · fewer",
-        "ai-llm｜thinking · ace · fewer",
-        "We Can Do It with Fewer Tokens"
-      ],
-      "summary": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "body": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "lang": "en",
-      "author": {
-        "id": "domain-bot-deepthought",
-        "name": "AI深度思想",
-        "kind": "user"
-      },
-      "provenance": "human",
-      "epistemic": "inference",
-      "signer": null,
-      "schemaVersion": 1,
-      "createdAt": "2026-08-11T13:37:10.000Z",
-      "sourceUrl": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
     }
   ]
 }
