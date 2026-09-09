@@ -1,8 +1,8 @@
 {
   "id": "tuna-builtin-pack-v2",
-  "version": 26,
+  "version": 27,
   "label": "domain-bot 探针内容包",
   "generatedBy": "domain-bot",
-  "updatedAt": "2026-09-09T00:05:43.467Z",
-  "packSha256": "4a6354c70206338f24ceef21d82b15b9520023c49c35292216b76a64b8337a1c"
+  "updatedAt": "2026-09-09T01:45:16.469Z",
+  "packSha256": "1f55d47ab6e02de6d8efc5510031178f4c9e3bd9a27ee7da30542bdaac6344e0"
 }
